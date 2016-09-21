@@ -1,0 +1,2 @@
+# Nidec
+Nidec modified files
